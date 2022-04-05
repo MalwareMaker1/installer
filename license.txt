@@ -1,0 +1,3 @@
+This is the license for the LogonUI overwriter.
+1.This is a malicious software. I'm not responsible for any damage, this OVERWRITES LogonUI. Resulting in an unusable machine.
+2.Don't copy this. 
